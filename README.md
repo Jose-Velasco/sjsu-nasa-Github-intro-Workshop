@@ -1,4 +1,4 @@
-# Gavilan Computer Science Club Github intro workshop
+# Github intro workshop
 
 
 ## Getting Started
